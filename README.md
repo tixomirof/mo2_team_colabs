@@ -1,4 +1,4 @@
-# mo2_team_colabs
+# Репозиторий команды №2 ПИ 2026
 Хранилище Google Colab файлов для предмета "Машинное обучение 2"
 -------------------------------------------
 Источник данных: https://www.kaggle.com/datasets/ayushtankha/70k-job-applicants-data-human-resource/data
