@@ -22,6 +22,10 @@
 * Accessibility - *датасет не предоставляет описания*
 
 -------------------------------------------
+## Сравнение моделей модуля "Обучение с учителем"
+<img width="1031" height="470" alt="image" src="https://github.com/user-attachments/assets/d5be3a44-ac2a-493c-8ea2-5dd771a95dc6" />
+
+-------------------------------------------
 ## Ссылки на актуальные Google Colab:
 Ниже приложены списки ссылок Google Colab последних актуальных версий на каждую лабораторную работу:
 * Лабораторная работа №1: https://colab.research.google.com/drive/11AgYpzUuZy_Ktpc7nCd_w7UGwt-FRHNI?usp=sharing
