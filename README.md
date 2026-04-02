@@ -30,3 +30,4 @@
 * Лабораторная работа №4: https://colab.research.google.com/drive/1PcwgTJXdYpkcwvLPKGymI87VwlcF9eZs?usp=sharing
 * Лабораторная работа №5: https://colab.research.google.com/drive/14M7Dhj5p-O0QzZYZctPdhxqtKxOC7Hzv?usp=sharing
 * Лабораторная работа №6: https://colab.research.google.com/drive/1PPuHMbd_tcNurg1O0lqM-sx8y0sdfnlH?usp=sharing
+* Лабораторная работа №7: https://colab.research.google.com/drive/1IRSFgMBAzDCaY0ovwlHQp_gt5JT_wVl_?usp=sharing
